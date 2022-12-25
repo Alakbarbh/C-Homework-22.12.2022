@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\Login-app.exe
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\Login-app.deps.json
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\Login-app.runtimeconfig.json
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\Login-app.dll
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\Login-app.pdb
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.csproj.CopyComplete
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.dll
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\refint\Login-app.dll
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.pdb
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\Login-app.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Task1-Login\Login-app\Login-app\obj\Debug\net6.0\ref\Login-app.dll
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\Login-app.exe
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\Login-app.deps.json
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\Login-app.runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\Login-app.dll
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\Login-app.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.csproj.CopyComplete
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.dll
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\refint\Login-app.dll
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.pdb
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\Login-app.genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Homework 22.12.2022\task1(login)\Login-app\obj\Debug\net6.0\ref\Login-app.dll
